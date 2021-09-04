@@ -2,16 +2,17 @@
   <a href="" rel="noopener">
  <img width=650px height=355px src="https://raw.githubusercontent.com/kwing25/Photo-Drop/main/client/public/FinalSiteScreenshot.png"></a>
 </p>
-<h1 align="center">Photo Drop</h1>
-<div align="center">
 
+<div align="center">
+<h1 align="center">Photo Drop</h1>
+<h4>Upload, Share, & Comment on Pics 📸. </h4>
+
+---
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=up&url=https%3A%2F%2Fphoto-drop2.herokuapp.com%2F)
 [![Status](https://img.shields.io/badge/Status-Complete-66BB6A?style=flat&link=https://github.com/kwing25/Photo-Drop)](https://github.com/kwing25/Photo-Drop)
 [![Repo Type](https://img.shields.io/badge/Repo_Type-Public-fff200?style=flat&link=https://github.com/kwing25/Photo-Drop)](https://github.com/kwing25/Photo-Drop)
-
+![GitHub contributors](https://img.shields.io/github/contributors/kaivont85/Group-3-Project)
 </div>
-
-
-
 
 [![React](https://img.shields.io/badge/React-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=React&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
 [![GraphQL](https://img.shields.io/badge/GraphQL-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=GraphQL&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
@@ -19,6 +20,7 @@
 [![Express](https://img.shields.io/badge/Express-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=Express&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
 [![Stripe](https://img.shields.io/badge/Stripe-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=Stripe&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-Technology_Used-000000?labelColor=d1d1d1&style=for-the-badge&logo=Cloudinary&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
+
 ## Table of Contents:
 
   - [Description](#description)
@@ -81,7 +83,7 @@ $ npm start
 
 To view, upload, and comment on pictures.
 
-## Contributors ![GitHub contributors](https://img.shields.io/github/contributors/kaivont85/Group-3-Project)
+## Contributors 
 
 Alison Armstrong, Matthew Elliott, Kaivon Tolooee, Domenic Wilhelm, Kendra Wing
 
