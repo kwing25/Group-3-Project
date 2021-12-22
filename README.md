@@ -86,6 +86,12 @@ To view, upload, and comment on pictures.
 
 Alison Armstrong, Matthew Elliott, Kaivon Tolooee, Domenic Wilhelm, Kendra Wing
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="140"><a href="github.com/kwing25"><img src="https://avatars.githubusercontent.com/u/78707448?v=4" width="100px;" alt="Kendra Wing"/><br /><sup><b>Kendra Wing</b></sup></a><br /> </td>
+  </tr>
+</table>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Alison_Armstrong-green?style=social&logo=GitHub&link=https://github.com/kaivont85/Group-3-Project)](https://github.com/kaivont85/Group-3-Project)
 [![GitHub](https://img.shields.io/badge/GitHub-MatteoThomas-green?style=social&logo=GitHub&link=https://github.com/MatteoThomas)](https://github.com/MatteoThomas)
 [![GitHub](https://img.shields.io/badge/GitHub-kaivont85-green?style=social&logo=GitHub&link=https://github.com/kaivont85)](https://github.com/kaivont85) 
