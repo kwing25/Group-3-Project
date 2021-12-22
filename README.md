@@ -89,6 +89,7 @@ Alison Armstrong, Matthew Elliott, Kaivon Tolooee, Domenic Wilhelm, Kendra Wing
 <table>
   <tr>
      <td align="center" valign="top" width="130"><a href="https://github.com/alisonarmstrong"><img src="https://avatars.githubusercontent.com/u/78371790?v=4" width="100px;" alt="Alison Armstrong"/><br /><sup><b>Alison Armstrong</b></sup></a><br /> </td>
+         <td align="center" valign="top" width="130"><a href="https://github.com/MatteoThomas"><img src="https://avatars.githubusercontent.com/u/77035998?v=4" width="100px;" alt=" Matthew Elliott"/><br /><sup><b>Matthew Elliott</b></sup></a><br /> </td>
     <td align="center" valign="top" width="130"><a href="github.com/kwing25"><img src="https://avatars.githubusercontent.com/u/78707448?v=4" width="100px;" alt="Kendra Wing"/><br /><sup><b>Kendra Wing</b></sup></a><br /> </td>
   </tr>
 </table>
