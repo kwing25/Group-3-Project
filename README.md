@@ -8,7 +8,6 @@
 <h4>Upload, Share, & Comment on Pics 📸. </h4>
 
 ---
-![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=blue&up_message=up&url=https%3A%2F%2Fphoto-drop2.herokuapp.com%2F)
 [![Status](https://img.shields.io/badge/Status-Complete-66BB6A?style=flat&link=https://github.com/kwing25/Photo-Drop)](https://github.com/kwing25/Photo-Drop)
 [![Repo Type](https://img.shields.io/badge/Repo_Type-Public-fff200?style=flat&link=https://github.com/kwing25/Photo-Drop)](https://github.com/kwing25/Photo-Drop)
 ![GitHub contributors](https://img.shields.io/github/contributors/kaivont85/Group-3-Project)
